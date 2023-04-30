@@ -1,6 +1,6 @@
 👋 Greetings
 
-I’m [@headlessvoyager](https://github.com/headlessvoyager), a [headless](https://www.headless.org/Comments/movement.htm) [voyager](https://www.merriam-webster.com/dictionary/voyager).
+I’m [@headlessvoyager](https://github.com/headlessvoyager), a [headless](https://www.headless.org/experiments/pointing.htm) [voyager](https://www.merriam-webster.com/dictionary/voyager).
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
